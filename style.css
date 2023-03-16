@@ -1,13 +1,38 @@
-h1 {
-    font-size: 56;
+#contact-info {
+    font-size: 40pt;
     text-align: center;
 }
 
+#contact-info a {
+    font-size: 20pt;
+    text-align: center;
+}
+
+#Name {
+    margin-bottom: 15;
+}
+
 h2 {
-    font-size: 28pt;
+    font-size: 36pt;
+    margin-bottom: 20;
+    font-weight: bolder;
+}
+
+.place {
+    font-size: 20;
+    font-weight: bold;
+}
+
+.job-title {
+    font-weight: 600;
+}
+
+p {
+    font-size: 20;
+    font-weight: bold;
 }
 
 body {
-    color: #252422;
-    background-color: #FFFCF2;
+    color: #000000;
+    background-color: #586f7c;
 }
