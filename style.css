@@ -32,7 +32,12 @@ p {
     font-weight: bold;
 }
 
+a {
+    color: inherit;
+}
+
 body {
     color: #000000;
     background-color: #586f7c;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
