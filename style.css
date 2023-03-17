@@ -19,11 +19,12 @@ h2 {
 }
 
 .place {
-    font-size: 20;
+    font-size: 24;
     font-weight: bold;
 }
 
 .job-title {
+    font-size: 20;
     font-weight: 600;
 }
 
@@ -37,7 +38,13 @@ a {
 }
 
 body {
-    color: #000000;
+    color: #000;
     background-color: #586f7c;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
+
+ul {
+    list-style-position: inside;
+    list-style-type: square;
+}   
