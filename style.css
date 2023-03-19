@@ -1,5 +1,5 @@
 #contact-info {
-    font-size: 40pt;
+    font-size: 48pt;
     text-align: center;
 }
 
@@ -13,7 +13,7 @@
 }
 
 h2 {
-    font-size: 36pt;
+    font-size: 40pt;
     margin-bottom: 20;
     font-weight: bolder;
 }
@@ -47,4 +47,10 @@ body {
 ul {
     list-style-position: inside;
     list-style-type: square;
-}   
+    font-weight: 525;
+}
+
+.lists ul {
+    list-style-type: none;
+    text-align: center;
+}
